@@ -1,6 +1,6 @@
 {
     "version":2,
-    "bilds":[
+    "builds":[
         {"src":"app.py", "use": "@vercel/python"}
     ],
     "routes":[
